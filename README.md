@@ -1,7 +1,11 @@
 # Hi there, I'm Dangerlulakebab 👋
 
-## I'm a future full-stack web developer
+## my wish is to become a frontend - fullstack web dev
 
-## Currently knowing:
+## my skills:
 
-### HTML, CSS, JavaScript, Python
+### HTML, CSS, JavaScript, Python, Git
+
+## in future:
+
+### SCSS, Gulp, TailWind, React
