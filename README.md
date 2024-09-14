@@ -1,11 +1,7 @@
-# Hi there, I'm Dangerlulakebab 👋
+# Hey my name is Dmitry and im a frontEnd devoloper 👋
 
-## my wish is to become a frontend - fullstack web dev
+## stack:
+### HTML CSS JS GIT GITHUB
 
-## my skills:
-
-### HTML, CSS, JavaScript, Python, Git
-
-## in future:
-
-### SCSS, Gulp, TailWind, React
+## learning:
+### tailwindCSS react.js
