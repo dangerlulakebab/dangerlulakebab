@@ -1,7 +1,7 @@
-# Hey my name is Kebab and im a frontEnd devoloper 👋
+# kebab
 
-## stack:
+## skills:
 ### HTML CSS JS GIT GITHUB
 
-## learning:
-### tailwindCSS react.js SASS
+## in plan:
+### tailwindCSS react SASS vue
