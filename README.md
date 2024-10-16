@@ -1,8 +1,8 @@
 # kebab
 
 ## skills:
-### HTML CSS JS GIT GITHUB
-### Webpack
+### HTML CSS JS GIT Webpack
+###  
 
 ## in plan:
-### tailwindCSS react SASS vue
+### tailwindCSS react SASS vue vite
