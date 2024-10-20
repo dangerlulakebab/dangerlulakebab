@@ -1,8 +1,16 @@
-# kebab
+# Welcome to My GitHub Profile 👋
 
-## skills:
-### HTML CSS JS GIT Webpack
-###  
+## About Me
+- 🎓 I'm finishing school in 2025.
+- 💼 I want to become a freelancer.
+- 🌐 I'm multilingual, speaking English, Russian, and Romanian.
 
-## in plan:
-### tailwindCSS react SASS vue vite
+## Skills
+- 📃 HTML
+- 👓 Css
+- 🕹️ JavaScript
+- 💻 Git, Guthub
+
+## Goals
+- 🎯 My goal is to become a top front-End devolopers and monitize this!
+- 📌 To get better place from living.
