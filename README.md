@@ -13,4 +13,4 @@
 
 ## Goals
 - 🎯 My goal is to become a top front-End devolopers and monitize this!
-- 📌 To get better place from living.
+- 📌 To become best web devolopr ever lived.
