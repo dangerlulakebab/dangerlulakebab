@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kebab</h1>
+<h1 align="center">Sup</h1>
 <h3 align="center">Web devoloper</h3>
 
 
